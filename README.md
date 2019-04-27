@@ -19,3 +19,5 @@ http://s7.dosya.tc/server14/m76303/PVP-TURK_2300_Server_Files___DB.rar.html
 
 Database
 http://s7.dosya.tc/server14/ewzf7o/PVP-TURK_Client.rar.html
+
+Client : http://s7.dosya.tc/server14/ewzf7o/PVP-TURK_Client.rar.html
